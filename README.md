@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭I'm currently working on my Assignments<br>🌱 I’m currently learning Web Mobile & App Development<br>📫 How to reach me maryamnoor312@gmail.com<br>👨‍💻 All of my projects are available at Github profile<br>⚡ Fun fact I am Front End developer at age 12
 
-
 ![developer](https://github.com/user-attachments/assets/2bb5a04d-bbf0-488b-be1e-e15c6da73f1f)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Maryam Noor312) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Maryam Noor312) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maryam Noor312) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Code Crafter) 
