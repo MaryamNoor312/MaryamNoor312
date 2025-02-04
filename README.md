@@ -1,4 +1,4 @@
-Hi 👋, I'm Sheikh Hafsa Nadeem
+
 # 💫 About Me:
 🔭I'm currently working on my Assignments<br>🌱 I’m currently learning Web Mobile & App Development<br>📫 How to reach me maryamnoor312@gmail.com<br>👨‍💻 All of my projects are available at Github profile<br>⚡ Fun fact I am Front End developer at age 12
 
